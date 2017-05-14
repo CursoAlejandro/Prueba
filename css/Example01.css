@@ -1,0 +1,28 @@
+.padre{
+    width: 250px;
+    height: 150px;
+    margin: 25px;
+    background:palevioletred;
+    position: absolute;
+    
+}
+
+.padre > div{
+    
+    text-align: center;
+    vertical-align: middle;
+}
+
+.hijo1{
+    
+    width: 25px;
+    height: 25px;
+    background: red;
+
+}
+
+.hijo2{
+    width: 150px;
+    height: 50px;
+    background: purple;
+}
