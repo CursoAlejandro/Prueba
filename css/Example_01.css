@@ -1,0 +1,38 @@
+div{
+    
+    margin: 60px;
+    height: 200px;
+    width: 555px;
+    border:10px solid lemonchiffon;
+    display: flex;
+}
+#p1 {
+    border: yellow;
+    width: 60px;
+    top: 40px;
+    left: 160px;
+    background-color: yellow;
+    margin: 19px;
+    
+}
+
+#p2 {
+    background:linear-gradient(336666, #66cccc);
+    width: 60px;
+    top: 80px;
+    left: 200px;
+    color: orange;
+    background-color: orange;
+    
+}
+
+#p3 {
+    background:linear-gradient(336666, #66cccc);
+    width: 60px;
+    top: 80px;
+    left: 250px;
+    color:lawngreen;
+    background-color: lawngreen;
+    
+}
+

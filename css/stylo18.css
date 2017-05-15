@@ -10,12 +10,19 @@ h1{
     font-family: fantasy;
 }
 
-hr{
-    border: -3px;
-}
-
 figure{
     float:left;
+}
+
+.louvre{
+    width: 70%;
+    margin-left:15% ;
+    
+}
+
+.ultimo-parrafo{
+    clear: both;  /* Hago un clear para que no interfiera
+                    en la imagen flotante*/
 }
 
 div.datos{
@@ -27,7 +34,8 @@ div.datos{
     font-size: 20px;
 }
 .box{
-width:50%;
+width:45%;
+margin: 20px;
 height:auto;
 background:beige;
 float:left;
@@ -37,6 +45,7 @@ img {
 }
 
 footer{
-    left: 30px;
+    
     width: 12%;
+    margin-left: 40%;
 }
