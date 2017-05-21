@@ -11,5 +11,5 @@ function media() {
     
 }
 
-media();
+media(); /*hi*/
 document.write(media());
